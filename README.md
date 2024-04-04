@@ -1,4 +1,4 @@
-# simple yet creative creative e-commerce with shoppinf cart website
+# simple yet creative creative e-commerce with shopping cart website
 
 
 

@@ -1,4 +1,4 @@
-# React + Vite
+# simple yet creative creative e-commerce with shoppinf cart website
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
